@@ -1,0 +1,25 @@
+
+
+
+.button {
+	display: inline-block;
+	background-color: green;
+	color: white;
+	border-radius: 5px;
+	text-decoration: none;
+	margin: 20px auto;
+	height: 60px;
+	width: 200px;
+}
+
+
+
+
+
+
+/*// console.log( $('#para').text('!!!!!') )
+inputs, checkboxes, buttons are considered FORM elements.  In jq you can use  .val  to get the value of what is inside of it
+
+.val())
+
+console.log( $("my-input").val( ) )*/
